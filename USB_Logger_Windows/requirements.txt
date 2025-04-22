@@ -1,0 +1,6 @@
+wmi
+pywin32
+psutil
+pystray
+Pillow
+win10toast
