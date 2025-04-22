@@ -27,7 +27,7 @@ USBLogger for Windows allows monitoring and logging of USB connections as well a
 
 ### 1. Clone the repository
 ```bash
-git clone <your_repository_url>
+git clone https://github.com/crenta/USBLogger.git
 cd USBLogger_Windows
 ```
 
