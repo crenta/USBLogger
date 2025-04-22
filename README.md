@@ -128,16 +128,16 @@ USBLogger_Windows/
    |      ├── device.py                 
    |      └── eject.py                  
    | 
-   ├── core_c/                          # C sources and CMake build
-   |      ├── CMakeLists.txt
-   |      ├── include/
-   |      |      └── core_api.h
-   |      ├── src/
-   |      |      ├── device_utils.c
-   |      |      └── monitoring.c
-   |      └── build/
-   │             └── Release/
-   │                    └── usb_monitor_core.dll
+   └── core_c/                          # C sources and CMake build
+          ├── CMakeLists.txt
+          ├── include/
+          |      └── core_api.h
+          ├── src/
+          |      ├── device_utils.c
+          |      └── monitoring.c
+          └── build/
+                 └── Release/
+                        └── usb_monitor_core.dll
 ```
 
 
