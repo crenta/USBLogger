@@ -104,7 +104,7 @@ python main.py
 - **System Tray:** Close to minimize, right‑click for menu (Show, Start/Stop, Exit), native Windows toast notifications on events.
 
 
-## File Structure
+## File Structure (after build)
 ```
 USBLogger_Windows/
  └─| 
