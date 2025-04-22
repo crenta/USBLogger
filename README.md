@@ -8,7 +8,7 @@ USBLogger for Windows allows monitoring and logging of USB connections as well a
 - **Log** detailed device information and events to a rolling log file and a JSON summary.
 - **Validate** connected media against a predefined authorization key.
 - **Eject** unauthorized or failed-auth devices safely using a C-based DLL.
-- **Enumerate** enable/disable root-level files/directories on new drives (enablable/disablable)
+- **Enumerate** root-level files/directories on new drives (enablable/disablable)
 - **Visualize** activity in real time with a dark‑mode Tkinter dashboard.
 - **Background Integration** with the system tray and display native Windows toast notifications.
 
