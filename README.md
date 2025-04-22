@@ -2,7 +2,7 @@
 
 ## Overview
 
-USBLogger for Windows is a comprehensive tool for monitoring USB device connections and disconnections on Windows systems. It offers both headless and GUI-based modes, allowing you to:
+USBLogger for Windows allows monitoring and logging of USB connections as well as auto ejecting if it's not a valid USB.
 
 - **Monitor** USB plug/unplug events via WMI.
 - **Log** detailed device information and events to a rolling log file and a JSON summary.
