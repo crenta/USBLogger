@@ -15,7 +15,7 @@ USB_LOGGER_DIR = os.path.abspath(os.path.join(THIS_DIR, ".."))
 sys.path.insert(0, USB_LOGGER_DIR)
 
 import pythoncom
-import usb_logger_win         # your headless monitor script (must expose main())
+import usb_logger_win
 from utils.summary import load_summary, save_summary, SUMMARY_FILE
 from utils.config  import WMI_POLL, LOG_FILE, SCRIPT_DIR
 from utils.eject   import eject_drive_api
